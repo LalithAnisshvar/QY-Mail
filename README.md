@@ -1,0 +1,1 @@
+QYMail is a secure email system built on Firebase that combats "Harvest Now, Decrypt Later" attacks. It uses Temporal Entropy Fragments derived from hardware noise to generate session-only encryption keys that vanish after use. Built with Node.js, it simulates Quantum Key Distribution, supports encrypted attachments, and includes threat logging via Firestore.
